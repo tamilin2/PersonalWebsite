@@ -13,7 +13,7 @@ h2 {
 }
 body {
     height: 100%;
-    background-color: aqua;
+    background-image: url("background1.png");
     color: black;
 }
 
