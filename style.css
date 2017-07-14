@@ -1,7 +1,7 @@
 
 h1 {
   color: black;
-  font-family: sans-serif;
+  font-family: Papyrus, fantasy;
   font-size: 50px;
   line-height: 5%;
 }
@@ -13,7 +13,6 @@ h2 {
 }
 body {
     height: 100%;
-    background-image: url("background1.png");
     color: black;
 }
 
